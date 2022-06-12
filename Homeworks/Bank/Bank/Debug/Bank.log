@@ -1,0 +1,10 @@
+﻿  Bank.cpp
+C:\Users\Mariyan\source\repos\Bank\Bank\NormalAccount.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mariyan\source\repos\Bank\Bank\Bank.cpp(176,10): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\Bank\Bank\Bank.cpp(190,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\Bank\Bank\Bank.cpp(229,10): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\Bank\Bank\Bank.cpp(243,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\Bank\Bank\Bank.cpp(287,10): warning C4018: '>': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Bank.vcxproj -> C:\Users\Mariyan\source\repos\Bank\Debug\Bank.exe

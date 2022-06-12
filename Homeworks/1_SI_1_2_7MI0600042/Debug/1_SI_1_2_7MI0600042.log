@@ -1,0 +1,6 @@
+﻿  1_SI_1_2_7MI0600042.cpp
+C:\Users\Mariyan\source\repos\1_SI_1_2_7MI0600042\1_SI_1_2_7MI0600042.cpp(179,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\1_SI_1_2_7MI0600042\1_SI_1_2_7MI0600042.cpp(184,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\1_SI_1_2_7MI0600042\1_SI_1_2_7MI0600042.cpp(239,25): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\Mariyan\source\repos\1_SI_1_2_7MI0600042\1_SI_1_2_7MI0600042.cpp(241,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+  1_SI_1_2_7MI0600042.vcxproj -> C:\Users\Mariyan\source\repos\1_SI_1_2_7MI0600042\Debug\1_SI_1_2_7MI0600042.exe
