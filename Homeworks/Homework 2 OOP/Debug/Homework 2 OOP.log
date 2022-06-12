@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Mariyan\source\repos\Homework 2 OOP\Book.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mariyan\source\repos\Homework 2 OOP\User.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Homework 2 OOP.vcxproj -> C:\Users\Mariyan\source\repos\Homework 2 OOP\Debug\Homework 2 OOP.exe

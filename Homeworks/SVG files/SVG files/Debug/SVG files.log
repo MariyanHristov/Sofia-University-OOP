@@ -1,0 +1,10 @@
+﻿  SVG.cpp
+C:\Users\Mariyan\source\repos\SVG files\SVG files\SVG.cpp(95,13): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\SVG files\SVG files\SVG.cpp(109,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\SVG files\SVG files\SVG.cpp(131,10): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\SVG files\SVG files\SVG.cpp(178,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\SVG files\SVG files\SVG.cpp(197,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\SVG files\SVG files\SVG.cpp(213,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\SVG files\SVG files\SVG.cpp(351,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariyan\source\repos\SVG files\SVG files\SVG.cpp(360,20): warning C4018: '<': signed/unsigned mismatch
+  SVG files.vcxproj -> C:\Users\Mariyan\source\repos\SVG files\Debug\SVG files.exe

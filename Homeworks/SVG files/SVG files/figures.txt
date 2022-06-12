@@ -1,0 +1,9 @@
+<?xml version = "1.0" standalone = "no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg>
+<line x1="48" y1="43" x2="85" y2 ="82" stroke="red" />
+<line x1="561" y1="457" x2="1398" y2 ="1096" stroke="red" />
+<rect x="879" y="680" width="18" height="29" stroke="green" />
+<circle cx="1173" cy="995" r="38" stroke="red" />
+</svg>
